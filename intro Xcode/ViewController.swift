@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
     @IBAction func clickbutton(_ sender: Any) {
         
-        thelabel.text = "XYZ"
+        thelabel.text = "Tryckt på knapp"
     }
     
 }
